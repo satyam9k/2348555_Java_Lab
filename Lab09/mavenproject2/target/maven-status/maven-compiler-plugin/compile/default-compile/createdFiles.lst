@@ -1,0 +1,4 @@
+com\mycompany\servlet\LoginServlet.class
+com\mycompany\servlet\LogoutServlet.class
+com\mycompany\mavenproject2\resources\JakartaEE10Resource.class
+com\mycompany\mavenproject2\JakartaRestConfiguration.class
